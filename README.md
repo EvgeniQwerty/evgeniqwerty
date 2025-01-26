@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am Eugene, React Frontend Developer. And Python Developer too. <br>Here is my pet projects<br>I am currently learning TypeScript, Next.js, Framer-motion libraries
+Hello! I am Eugene, React Frontend Developer. And Python Developer too.<br>Here is my pet projects<br>
 
 
 # 💻 Tech Stack:
